@@ -46,7 +46,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 5,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             },
             {
                 args = {
@@ -55,7 +55,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 2,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             },
             {
                 args = {
@@ -64,7 +64,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 1,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             },
             {
                 args = {
@@ -81,7 +81,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 5,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             },
             {
                 args = {
@@ -90,7 +90,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 2,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             },
             {
                 args = {
@@ -99,7 +99,7 @@ local Window = Rayfield:CreateWindow({
                     [3] = 1,
                     [4] = "Earth"
                 },
-                event = workspace.PlayerManagement.ChaseisChillin2.LocalRemote
+                event = workspace.PlayerManagement.AnyLilSus2004.LocalRemote
             }
         }
         
